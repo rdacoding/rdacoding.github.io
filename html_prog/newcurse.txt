@@ -1,0 +1,24 @@
+            <div id="container06" class="container columns">
+              <div class="wrapper">
+                <div class="inner">
+                  <div>
+                    <div id="image07" class="image" data-position="center"><span
+
+                        class="frame"><img src="fundacao-bradesco.png" style="width: 60% !important; height: 60% !important;"
+
+                          id="fund-bradesco"></span></div>
+                  </div>
+                  <div>
+                    <p id="text18"><strong>Microsoft Word 2016 - Básico</strong></p>
+                    <p id="text19"><span>Por: Fundação Bradesco</span><br>
+                      <span>Emitido em: nov de 2020</span><br>
+                      <span>Código da credencial:
+                        31BCCAA0-1873-43D0-8F89-7EC9D08A43B0</span></p>
+                    <ul id="buttons07" class="buttons">
+                      <li><a href="https://domain.ext/path" class="button n01">Certificado</a></li>
+                      <li><a href="https://domain.ext/path" class="button n02">Validação</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
